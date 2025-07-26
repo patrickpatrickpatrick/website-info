@@ -1,0 +1,16 @@
+---
+name: My dog photos
+description: Here are photographs of my dog.
+photos:
+- name: My dog
+  description: Barney the dog is sitting
+  file: patient.png
+- name: Waiting for ball
+  description: Barney is waiting for the ball to be thrown
+  file: waiting for ball.png
+- name: Sunbathing
+  description: Barney is sunbathing
+  file: sunbathing.png
+- name: Sleeping
+  description: My dog Barney sleeping
+  file: sleeping.png
