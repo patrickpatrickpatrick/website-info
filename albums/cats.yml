@@ -5,7 +5,10 @@ photos:
 - name: My cat
   description: Beef is lying down (as usual)
   detail: |
-    ## Hello, does this work
+    Here's some details about my cat Beef
+    - He loves to sleep
+    - His favourite food is biscuits
+    - He despises flies
   file: here he is.png
 - name: Close up
   description: Close up of my cat Beef's face
