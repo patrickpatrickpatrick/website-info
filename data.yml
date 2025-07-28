@@ -3,3 +3,15 @@ featured_photos:
 albums:
 - cats
 - dog
+about: |
+ ## Bio
+
+ Some words about yourself and the work that you do.
+
+ ## Contact
+
+ Links to your contact information
+
+ - [Instagram](https://www.instagram.com/)
+ - [Email](mailto:someemailaddress@domain.com)
+ - [Some other link somewhere](https://patworld.world)
