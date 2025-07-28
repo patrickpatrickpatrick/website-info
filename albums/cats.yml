@@ -1,6 +1,7 @@
 ---
 name: My cat photos
 description: Here are photographs of my cats.
+cover_photo: Close up
 photos:
 - name: My cat
   description: Beef is lying down (as usual)
