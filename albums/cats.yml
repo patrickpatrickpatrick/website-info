@@ -4,6 +4,8 @@ description: Here are photographs of my cats.
 photos:
 - name: My cat
   description: Beef is lying down (as usual)
+  detail: |
+    ## Hello, does this work
   file: here he is.png
 - name: Close up
   description: Close up of my cat Beef's face
