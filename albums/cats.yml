@@ -21,4 +21,6 @@ photos:
   description: My cat Beef sleeping again
   file: sleeping again.png
 - file: 27_12.png
-- file: contact exp 5.tif
+
+- name: birds
+  file: contact exp 5.tif
