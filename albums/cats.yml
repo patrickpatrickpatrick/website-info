@@ -24,5 +24,7 @@ photos:
   file: 27_12.png
 - name: birds
   file: contact exp 5.tif
-- name: lumi1
-  file: lumi1
+- name: Lumi 1
+  description: Lumi 1, 5x7
+  file: lumi 1.jpg
+  
