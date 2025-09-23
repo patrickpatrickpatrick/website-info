@@ -1,4 +1,4 @@
----
+il---
 name: My cat photos
 description: Here are photographs of my cats.
 cover_photo: Close up
@@ -25,6 +25,6 @@ photos:
 - name: birds
   file: contact exp 5.tif
 - name: Lumi 1
-  description: Lumi 1, 5x7
+  detail: Lumi 1, 5x7
   file: lumi 1.jpg
   
