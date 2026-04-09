@@ -8,7 +8,9 @@ photos:
       Silver gelatin print  
       5x7  
     file: birds.jpg
-  - name: Lumi 1, 5x7
+  - name: Lumi 1
+      Silver gelatin print
+      5x7
     file: lumi 1.jpg
   - name: Hungarian Dance No. 1
     detail: |
