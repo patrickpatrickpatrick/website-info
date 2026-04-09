@@ -32,3 +32,20 @@ photos:
     file: davidDE.jpg
   - name: Ingress, Egret
     file: egret.jpg
+  - name: Untitled
+    detail: |
+      Untitled (2025)
+      Digital scan from 120 negative    
+    file: Ruislip quad.jpg
+    - name: Night Larking
+    detail: |
+      Night Larking  
+      Silver gelatin print  
+      5x7  
+    file: night larking 2.jpg
+    - name: Time, or
+    detail: |
+      Untitled (2025)  
+      Silver gelatin print  
+      5x7  
+    file: time.jpg
