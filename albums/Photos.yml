@@ -3,7 +3,7 @@ name: Works
 description: Here are my photographs.
 cover_photo: Hungarian Dance No. 1
 photos:
-  - name: Untitled (2025)
+  - name: Untitled 1 (2025)
     detail: |
       Silver gelatin print  
       5x7  
@@ -18,7 +18,7 @@ photos:
       5x7  
     file: hungarian dance.jpg
     featured: true
-  - name: Untitled (2025)
+  - name: Untitled 2 (2025)
     detail: |
       Silver gelatin print
       5x7
@@ -36,7 +36,7 @@ photos:
     detail: |
       Digital scan from 120 negative 
     file: egret.jpg
-  - name: Untitled (2025)
+  - name: Untitled 3 (2025)
     detail: |
       Digital scan from 120 negative    
     file: Ruislip quad.jpg
