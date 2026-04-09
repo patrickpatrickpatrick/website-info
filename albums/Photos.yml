@@ -15,6 +15,7 @@ photos:
       Silver gelatin print  
       5x7  
     file: hungarian dance.jpg
+    featured: true
   - name: Untitled (2025)
     detail: |
       Silver gelatin print
