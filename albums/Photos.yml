@@ -3,8 +3,6 @@ name: Works
 description: Here are my photographs.
 cover_photo: Hungarian Dance No. 1
 photos:
-  - name: TV
-    file: 27_12.png
   - name: birds
     file: contact exp 5.tif
   - name: Lumi 1
