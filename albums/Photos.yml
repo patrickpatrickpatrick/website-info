@@ -4,10 +4,10 @@ description: Here are my photographs.
 cover_photo: Hungarian Dance No. 1
 photos:
   - name: Untitled (2025)
+    detail: |
+      Silver gelatin print  
+      5x7  
     file: birds.jpg
-    detail: | 
-      Silver gelatin print
-      5x7
   - name: Lumi 1, 5x7
     file: lumi 1.jpg
   - name: Hungarian Dance No. 1
