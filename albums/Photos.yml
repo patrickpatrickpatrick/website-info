@@ -1,0 +1,24 @@
+---
+name: Photos
+description: Here are my photographs.
+cover_photo: Hungarian Dance No. 1
+photos:
+  - name: TV
+    file: 27_12.png
+  - name: birds
+    file: contact exp 5.tif
+  - name: Lumi 1
+    detail: Lumi 1, 5x7
+    file: lumi 1.jpg
+  - name: Hungarian Dance No. 1
+    detail: |
+      Hungarian Dance No. 1  
+      Silver gelatin print  
+      5x7  
+    file: hungarian dance.jpg
+  - name: Untitled
+    detail: |
+      Untitled (2025)
+      Silver gelatin print
+      5x7
+    file: train man.jpg
