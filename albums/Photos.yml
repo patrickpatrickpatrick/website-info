@@ -3,51 +3,47 @@ name: Works
 description: Here are my photographs.
 cover_photo: Hungarian Dance No. 1
 photos:
-  - name: birds
+  - name: Untitled (2025)
     file: birds.jpg
     detail: | 
-      Untitled (2025)
       Silver gelatin print
       5x7
-  - name: Lumi 1
-    detail: Lumi 1, 5x7
+  - name: Lumi 1, 5x7
     file: lumi 1.jpg
   - name: Hungarian Dance No. 1
     detail: |
-      Hungarian Dance No. 1  
       Silver gelatin print  
       5x7  
     file: hungarian dance.jpg
-  - name: Untitled
+  - name: Untitled (2025)
     detail: |
-      Untitled (2025)
       Silver gelatin print
       5x7
     file: train man.jpg
-  - name: The Club is Open
+  - name: Your Volunteer Fire Department
     detail: |
-      Your Volunteer Fire Department
       Band Portraits
       Olympus EE-2
     file: Band 1.png
   - name: Primavera
+    detail: |
+      Digital scan from 120 negative 
     file: davidDE.jpg
   - name: Ingress, Egret
+      detail: |
+      Digital scan from 120 negative 
     file: egret.jpg
-  - name: Untitled
+  - name: Untitled (2025)
     detail: |
-      Untitled (2025)
       Digital scan from 120 negative    
     file: Ruislip quad.jpg
   - name: Night Larking
-    detail: |
-      Night Larking  
+    detail: | 
       Silver gelatin print  
       5x7  
     file: night larking 2.jpg
-  - name: Time, or
+  - name: Time, or (2025) 
     detail: |
-      Untitled (2025)  
       Silver gelatin print  
       5x7  
     file: time.jpg
